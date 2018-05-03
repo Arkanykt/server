@@ -1,0 +1,2 @@
+# server
+just another repository
